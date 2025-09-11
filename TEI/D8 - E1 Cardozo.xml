@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Diana Cardozo</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title rend="mayuscula"> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+<pb n="d8"/>
+
+<head><foreign xml:lang="latin">Canendo et ludendo refero vera</foreign></head>
+
+<p> <placeName key="castillejo">Castillejo</placeName>, que despertando del descuido en que se hallaba, envió poder al mismo don <persName key="domingo">Domingo</persName> para que tomase en arrendamiento el oficio o le rematase en el mejor postor, como lo ejecutó, no conviniéndole en los términos que proponía la casa, y desde dicho año 48 dio principio la época de correos de <placeName key="bsas"> Buenos Aires </placeName> y demás provincias del <placeName key="tucuman">Tucumán</placeName>.</p>
+
+<p>Esta ciudad está bien situada y delineada a la moderna, dividida en cuadras iguales y sus calles de igual y regular ancho, pero se hace intransitable a pie en tiempo de aguas, porque las grandes carretas que conducen los bastimentos y otros materiales, hacen unas excavaciones en medio de ellas en que se atascan hasta los caballos e impiden el tránsito a los de a pie, principalmente el de una cuadra a otra, obligando a retroceder a la gente, y muchas veces a quedarse sin misa cuando se ven precisados a atravesar la calle.</p>
+
+<p>Los vecinos que no habían fabricado en la primitiva y que tenían solares o los compraron posteriormente, fabricaron las casas con una elevación de más de una vara y las fueron cercando con unos pretiles de vara y media, por donde <pb n="e1"/> pasa la gente con bastante comodidad y con grave perjuicio de las casas antiguas, porque inclinándose a ellas el trajín de carretas y caballos, les imposibilita muchas veces la salida, y si las lluvias son copiosas se inundan sus casas y la mayor parte de las piezas se hacen inhabitables, defecto casi incorregible.</p>
+
+<p>La plaza es imperfecta y sólo la acera del cabildo tiene portales. En ella está la cárcel y oficios de escribanos y el alguacil mayor vive en los altos. Este cabildo tiene el privilegio de que cuando va al fuerte a sacar al gobernador para las fiestas de tabla, se le hacen los honores de teniente general, dentro del fuerte, a donde está la guardia del gobernador. Todo el fuerte está rodeado de un foso bien profundo y se entra en él por puentes levadizos. La casa es fuerte y grande, y en su patio principal están las cajas reales. Por la parte del río tienen sus paredes una elevación grande, para igualar el piso con el barranco que defiende al río. La catedral es actualmente una capilla bien estrecha. Se está haciendo un templo muy grande y fuerte, y aunque se consiga su conclusión, no creo verán los nacidos el adorno.</p>
+
+
+</body>
+</text>
+</TEI>
