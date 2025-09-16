@@ -8,26 +8,26 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://hdlab.space
+url: https://claracaputo-mor.github.io 
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /plantilla-cb-esp
+baseurl: /plantilla-hd-1
 # location of code, the full url to your github repository
-source-code: https://github.com/hdlab.space/plantilla-cb-esp
+source-code: https://github.com/claracaputo-mor/plantilla-hd-1/tree/main
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Título de la colección
+title: Edición del Grupo 2
 # tagline, a short phrase that will appear throughout the site in the top banner
 # tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Plantilla para construir sitios estáticos para colecciones documentales, desarrollada por el HDLab-CONICET."
+description: "Elaborado por Cande, Clara, Diana, Sabrina."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: colecciones; edición digital; 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: hdlab-CONICET
+author: Grupo 2
 
 ##########
 # COLLECTION SETTINGS
