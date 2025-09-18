@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento del Lazarillo de Ciegos Caminantes - Páginas e4 y e5</title>
+                <author rend="letras mayuscula">Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Candela Halpern</editor> 
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Humanidades digitales 2025</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+
+<pb n="e4"/>
+    <p>ñas, en donde se lava toda la ropa de la ciudad, y allí la cogen los negros, por evitar la molestia de internar a la corriente del río. Desde que vi repetidas veces una maniobra tan crasa, por la desidia de casi todos los aguadores, me causó tal fastidio que sólo bebí desde entonces de la del aljibe que tiene en su casa don <persName key="dbasavilbaso">Domingo de Basavilbaso</persName>, con tales precauciones y aseo que puede competir con los mejores de <placeName key="europa">Europa</placeName>. Dicen que tiene otro igual la casa que fabrica para su vivienda el difunto don <persName key="manuelarco">Manuel del Arco</persName>, y acaso otros muchos vecinos solicitarán este aseo a costa de algún gasto considerable, y cuidado de recoger las aguas en tiempo oportuno, con las demás precauciones que usa la casa de <persName key="dbasavilbaso">Basavilbaso</persName>.</p>
+
+    <p>Esta ciudad y su ejido carece de fuentes y manantiales superficiales y así no tiene más riego que el de las lluvias. Sin embargo, algunos vecinos curiosos han hecho pozos en sus quintas para regar algunas flores y hortalizas. Algunos han conseguido agua dulce, pero los más encontraron veneros salitrosos y perjudiciales a árboles y plantas. Tiene el río variedad de pescado, y los pejerreyes crecen hasta tres cuartas, con su <pb n="e5"/> grueso correspondiente, pero son muy insípidos respecto de los de <placeName key="lima">Lima</placeName>. Se hace la pesca en carretas, que tiran los bueyes hasta que les da el agua a los pechos, y así se mantienen aquellos pacíficos animales dos y tres horas, hasta que el carretero se cansa de pescar y vuelve a la plaza, en donde le vende desde su carreta al precio que puede, que siempre es ínfimo.</p>
+
+    <p>En toda la jurisdicción de <placeName key="bsas">Buenos Aires</placeName> y en mucha parte de la del <placeName key="tucuman">Tucumán</placeName> no se ha visto nieve. En la ciudad suelen caer algunas escarchas que varios curiosos recogen para helar algunas bebidas compuestas, que se regalan como extraordinarios exquisitos.</p>
+
+    <p>Ponderándome cierto día don <persName key="mbasavilbaso">Manuel de Basavilbaso</persName> lo delicado de estas bebidas y la falta que hacían en aquella ciudad, le serené su deseo asegurándole que los habitantes de ella no necesitaban otro refrigerio que el de los baños del <placeName key="rioplata">Río de la Plata</placeName> y beber sus dulces aguas puras o la de los aljibes; que la nieve sólo se apetecía en los países ardientes y que para un gusto causaba tres dolores, sin entrar en cuenta los crecidos gastos que las aguas compuestas y exquisitos dulces que re</p>
+           
+            </body>
+        </text>
+</TEI>

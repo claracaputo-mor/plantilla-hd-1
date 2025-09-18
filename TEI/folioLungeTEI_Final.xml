@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+              <title xml:id="llc_folio35">Fragmento de El lazarillo de ciegos caminantes - Folio 35</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Gabriel Calarco</editor>  
+             </titleStmt>
+
+            <publicationStmt>
+                <publisher>Humanidades Digitales 2025 </publisher>
+                <availability> 
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional </licence>
+                </availability> 
+            </publicationStmt> 
+
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+
+      <pb n="e6"/>
+    
+      <!-- comentario -->
+
+    <p>gularmente hay en las botellerías, que provocan a las damas más melindrosas y alivian de peso las faltriqueras de el mayor tacaño. Se rió el amigo, y creo que desde entonces echó en olvido las escarchas, como lo hizo con las cenas de las noches de máscaras, que ya se habían introducido en aquella ciudad, como los ambigús, a costa de mucho expendio y algunas apoplejías.</p>
+
+    <p>No creo que pasen de diez y seis coches los que hay en la ciudad. 
+    En otro tiempo, y cuando había menos, traían las mulas del campo y las metían en sus casas a la estaca, sin darles de comer, hasta que de rendidas no podían trabajar, y mandaban traer otras. 
+    Hoy día se han dedicado a sembrar <term>alcacer</term>
+    <note xml:id="e6nota1">Alcacer</note>, 
+    que traen a la ciudad con algunas cargas de heno para las caballerías, que se mantienen muy mal, a excepción de las de algunos pocos sujetos, que hacen 
+    <term>acopio</term>
+    <note xml:id="e6nota2">Acopio</note> de alguna paja y cebada de las próximas campañas.</p>
+
+    <p>Por el cotejo de los que nacen y mueren, se infiere la sanidad del lugar. 
+    En los meses de Junio, Julio, Agosto y Septiembre, se levantan muchas neblinas del río, que causan algunos accesos de pecho. 
+    Los pamperos, que son unos vientos fuer<pb n="e7"/>tes, desde el Suroeste al Oesudoeste
+    <note xml:id="e7nota1">Oesudoeste</note>, 
+    incomodan bastantemente por su violencia, y en la campaña hacen estremecer las carretas que cargadas tienen de peso doscientas arrobas. 
+    De éstas haré una descripción más adelante, para los curiosos. 
+    Ahora voy a dar una noticia importante a los señores viajeros, y en particular a los que vienen de 
+    <placeName key="espana">España</placeName> con empleos a este dilatado reino.</p>
+
+    <p>Los provistos para la jurisdicción de la 
+    <placeName key="audienciadelaplata">Audiencia de la Plata</placeName> caminarán conmigo, eligiendo los bagajes más acomodados a su constitución; 
+    pero los provistos para el distrito de la 
+    <placeName key="realaudienciadelima">Real Audiencia de Lima</placeName>, y con precisión los de 
+    <placeName key="chile">Chile</placeName>, tomarán en 
+    <placeName key="buenosaires">Buenos Aires</placeName> las medidas para llegar a 
+    <placeName key="mendoza">Mendoza</placeName> al abrirse la cordillera, que por lo regular es a principios de Noviembre. Este mes es el de los alentados. 
+    El de Diciembre y Enero son regulares y corrientes. 
+    Febrero y Marzo, meses de provinciales que nunca esperan a Abril y parte de Mayo, por no exponerse a alguna tormenta que se adelante. 
+    Los cinco meses restantes del año son arriesgados y trabajosos, y sin embargo de las casillas que se han puesto sólo pueden aventurarse los correos, que caminan a pie, por pre</p>
+
+  </body>
+</text>
