@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "xslt.processor": "C:\\Users\\dhcar\\Desktop\\Humanidades Digitales\\plantilla-hd-1\\assets\\SaxonHE12-9J\\saxon-he-12.9.jar"
+=======
+    "xslt.processor": "/workspaces/plantilla-hd-1/assets/SaxonHE12-9J/saxon-he-12.9.jar"
+>>>>>>> e3e5c458e5ce923ea808bc0f9e517d60d5f7253d
 }

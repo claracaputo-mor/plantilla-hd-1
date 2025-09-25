@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <?xml-model
-  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
-  schematypens="http://relaxng.org/ns/structure/1.0"
-  type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader> 
-        <fileDesc>
-            <titleStmt>
-                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
-                <author>Alonso Carrió de la Vandera</author>
-                <editor resp="digital">Clara Caputo</editor>  
-             </titleStmt>
-            <publicationStmt>
-                <publisher>Humanidades Digitales</publisher>
-                <availability>
-                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-            <bibl>
-                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
-                <author>Alonso Carrió de la Vandera</author>
-                <publisher>Imprenta de la Rovada</publisher> 
-                <date>1773</date>
-                <pubPlace>Lima, Perú</pubPlace>
-                <objectIdentifier>   
-                    <institution>Biblioteca Nacional (España)</institution>
-                    <idno>sig. R/22795</idno>
-             
-                </objectIdentifier>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-
-        <text>
-            <body>
-
-
-<head><foreign xml:lang="latin">Canendo et ludendo refero vera</foreign></head>
+   href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+     schematypens="http://relaxng.org/ns/structure/1.0"
+       type="application/xml"?>
+       <TEI xmlns="http://www.tei-c.org/ns/1.0">
+           <teiHeader> 
+                   <fileDesc>
+                               <titleStmt>
+                                               <title xml:id="llc_exordiogrupo2">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                                                               <author>Alonso Carrió de la Vandera</author>
+                                                                               <editor resp="digital">Clara Caputo</editor>  
+                                                                                            </titleStmt>
+                                                                                                        <publicationStmt>
+                                                                                                                        <publisher>Humanidades Digitales</publisher>
+                                                                                                                                        <availability>
+                                                                                                                                                            <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                                                                                                                                                                            </availability>
+                                                                                                                                                                                        </publicationStmt>
+                                                                                                                                                                                                    <sourceDesc>
+                                                                                                                                                                                                                <bibl>
+                                                                                                                                                                                                                                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                                                                                                                                                                                                                                                <author>Alonso Carrió de la Vandera</author>
+                                                                                                                                                                                                                                                                <publisher>Imprenta de la Rovada</publisher> 
+                                                                                                                                                                                                                                                                                <date>1773</date>
+                                                                                                                                                                                                                                                                                                <pubPlace>Lima, Perú</pubPlace>
+                                                                                                                                                                                                                                                                                                                <objectIdentifier>   
+                                                                                                                                                                                                                                                                                                                                    <institution>Biblioteca Nacional (España)</institution>
+                                                                                                                                                                                                                                                                                                                                                        <idno>sig. R/22795</idno>
+                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                     </objectIdentifier>
+                                                                                                                                                                                                                                                                                                                                                                                                     </bibl>
+                                                                                                                                                                                                                                                                                                                                                                                                                 </sourceDesc>
+                                                                                                                                                                                                                                                                                                                                                                                                                         </fileDesc>
+                                                                                                                                                                                                                                                                                                                                                                                                                             </teiHeader>
+                                                                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                                                                                                                                                                                                     <text>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 <body>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 <head><foreign xml:lang="latin">Canendo et ludendo refero vera</foreign></head>>
 
         <p><pb n="e2"/>respondiente, porque el obispado es pobre y las canonjías no pasan de un mil pesos, como el mayor de los curatos. Las demás iglesias y monasterios tienen una decencia muy común y ordinaria. Hay muy buenos caudales de comerciantes, y aun en las calles más remotas se ven tiendas de ropas, que creo que habrá cuatro veces más que en <placeName key="lima">Lima</placeName>, pero todas ellas no importan tanto como cuatro de las mayores de esta ciudad, porque los comerciantes gruesos tienen sus almacenes, con que proveen a todo el <placeName key="tucuman">Tucumán </placeName>y algo más.</p>
         <p>No he conocido hacendado grueso, sino a don <persName key="franciscodealzaibar">Francisco de Alzáibar</persName>, que tiene infinito ganado de la otra banda del río, repartido en varias estancias, con todo, mucho tiempo ha que en su casa no se ven cuatro mil pesos juntos. No he sabido que haya mayorazgo alguno ni que los vecinos piensen más que en sus comercios, contentándose con una buena casa y una quinta, que sólo sirve de recreación. La carne está en tanta abundancia que se lleva en cuartos a carretadas a la plaza, y si por accidente se resbala, como he visto yo, un cuarto entero, no se baja el carretero a recogerle, aunque <pb n="e3"/>se le advierta, y aunque por casualidad pase un mendigo, no le lleva a su casa porque no le cueste el trabajo de cargarlo. A la oración se da muchas veces carne de balde, como en los mataderos, porque todos los días se matan muchas reses, más de las que necesita el pueblo, sólo por el interés del cuero.Todos los perros, que son muchísimos, sin distinción de amos, están tan gordos que apenas se pueden mover, y los ratones salen de noche por las calles, a tomar el fresco, en competentes destacamentos, porque en la casa más pobre les sobra la carne, y también se mantienen de huevos y pollos, que entran con mucha abundancia de los vecinos pagos. Las gallinas y capones se venden en junto a dos reales, los pavos muy grandes a cuatro, las perdices a seis y ocho por un real y el mejor cordero se da por dos reales.</p>
