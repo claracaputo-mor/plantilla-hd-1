@@ -16,7 +16,7 @@ lcc_nota_e2,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_e2
 lcc_nota_e3,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_e3.jpg,/objects/small/lcc_e3.jpg,/objects/thumbs/lcc_e3.jpg,,
 lcc_nota_e4,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_e4.jpg,/objects/small/lcc_e4.jpg,/objects/thumbs/lcc_e4.jpg,,
 lcc_nota_e5,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_e5.jpg,/objects/small/lcc_e5.jpg,/objects/thumbs/lcc_e5.jpg,,
-lcc_nota_e6,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_e6.jpg,/objects/small/lcc_de6jpg,/objects/thumbs/lcc_e6.jpg,,
+lcc_nota_e6,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_e6.jpg,/objects/small/lcc_de6.jpg,/objects/thumbs/lcc_e6.jpg,,
 lcc_nota_e7,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_e7.jpg,/objects/small/lcc_e7.jpg,/objects/thumbs/lcc_e7.jpg,,
 lcc_nota_e8,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_e8.jpg,/objects/small/lcc_e8.jpg,/objects/thumbs/lcc_e8.jpg,,
 lcc_nota_f1,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_f1.jpg,/objects/small/lcc_f1.jpg,/objects/thumbs/lcc_f1.jpg,,
@@ -28,4 +28,5 @@ lcc_nota_f6,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_f6
 lcc_nota_f7,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_f7.jpg,/objects/small/lcc_f7.jpg,/objects/thumbs/lcc_f7.jpg,,
 lcc_nota_f8,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_f8.jpg,/objects/small/lcc_f8.jpg,/objects/thumbs/lcc_f8.jpg,,
 lcc_nota_g1,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_g1.jpg,/objects/small/lcc_g1.jpg,/objects/thumbs/lcc_g1.jpg,,
+
 lcc_nota_g2,lcc_nota,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,,/objects/lcc_g2.jpg,/objects/small/lcc_g2.jpg,/objects/thumbs/lcc_g2.jpg,,
