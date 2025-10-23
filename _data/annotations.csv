@@ -11,10 +11,10 @@ b8nota1,fortificaciones en forma de pequeñas villas
 b8nota2,clavija de cobre o bronce con que se tapa el chile de la pólvora
 c1nota1,cabequin
 c1nota2,"Antigua embarcación de considerables dimensiones, generalmente de vela."
-c1nota3,el campo o tierra que esta a la salida del lugar que no se planta ni se labra y es comun para todos los vecinos
+c1nota3,El campo o tierra que esta a la salida del lugar que no se planta ni se labra y es comun para todos los vecinos
 c1nota4,"Tienda donde se venden artículos de uso cotidiano, principalmente comestibles."
 c1nota5,"Pereza, haraganería, flojedad o aversión al trabajo."
-c2nota1,Gauderios es un termino de origen portugues que se utilizaba para referirse a los guachos que habitaron por primera vez la zona del Rio de la Plata
+c2nota1,Termino de origen portugues que se utilizaba para referirse a los guachos que habitaron por primera vez la zona del Rio de la Plata
 c2nota2,legos
 c2nota3,donados
 c3nota1,guarnecen
@@ -22,10 +22,10 @@ c3nota2,trajinan
 c4nota1,Los merinos son un tipo de oveja domestica originaria de España
 c5nota1,Coplas son composiciones poeticas breves de cuatros versos que se caracterizan por contar con un lenguaje simple y coloquial
 c6nota1,"Cabestro hace referencia a un buey manso que sirve de guia a las reservas bravas, principalmente en un encierro"
-c7nota2,"La rabadilla es la punta o exteemidad de la columna vertebral, formada por la ultima pieza del hueso sacro y por todas las del coxis"
-c7nota3,El rescoldo es la brasa menuda resguardada por la ceniza
-c7nota4,"Los caracuces, plural del caracu, es el tuetano de los animales, en particular de vacunos. El origen de la palabra proviene del guarani utilizada en Argentina, Chile, Paraguay y Uruguay. "
-c7nota5,El tuetano es la sustancia semi-grasa que se encuentra en el interior de los huesos de la medula
+c6nota2,"La rabadilla es la punta o extremidad de la columna vertebral, formada por la ultima pieza del hueso sacro y por todas las del coxis"
+c7nota1,El rescoldo es la brasa menuda resguardada por la ceniza
+c7nota2,"Los caracuces, plural del caracu, es el tuetano de los animales, en particular de vacunos. El origen de la palabra proviene del guarani utilizada en Argentina, Chile, Paraguay y Uruguay. "
+c7nota3,El tuetano es la sustancia semi-grasa que se encuentra en el interior de los huesos de la medula
 c7nota6,"Los guaderios fueron habitantes de la region fronteriza de Rio Grande Do Sul (Brasil) y el Litoral del Rio de la Plata, de origen portugues, indio, español criollo o mestizo, que vivia de forma vagabunda y se mantenia al margen de la autoridad, a menudo viviendo de lo que encontraba o como comerciante de cueros. El termino se usaba de manera similar al de ""gaucho"". "
 c8nota1,"Tratamiento inglés que se da a los lores, o señores de la nobleza inglesa."
 c8nota4,"Provisión para sustento de una ciudad, de un ejército"
@@ -41,7 +41,7 @@ d4nota4,"Aliño era una composicion, adorno, afeo. "
 d5nota1,Andrieles era el termino utilizado en Argentina para referirse a una especie de delantal.
 d5nota2,"Granjerias eran las ganancias o beneficio economico que se obtienen de una ocupacion o de otra cosa, a veces de manera ilicita. "
 d5nota3,La congrua era el termino que hacia referencia a algo adecuado o conveniente
-d5nota4,
+d5nota4,Frugal era una persona parca en comer y beber.
 d6nota1,estafetas
 e3nota1,Los tinajones son vasijas toscas de barro cocido parecida a la mitad inferior de una tinaja.
 e4nota1,Crasa es un adjetivo que refiere a una accion indisculpable puede ser un craso error o ignorancia crasa
@@ -49,6 +49,8 @@ e4nota2,Los aljibes son construcciones con depositos subterraneos de agua que se
 e4nota3,Los veneros salitrosos son manatiales de agua con exceso de sal que no puede ser bebida
 e6nota1,"Se refiere al forraje tierno de cebada u otros cereales, usado para alimentar al ganado."
 e6nota2,"Significa reunir o almacenar provisiones, en este caso paja y cebada de las próximas campañas."
+e6nota3,Cebada verde y en hierba.
+e6nota4,"Acción y efecto de acopiar. Juntar, reunir en cantidad algo, y más comúnmente granos, provisiones, etc."
 e7nota1,"Corresponde a la grafía antigua de ""Oeste-Sudoeste"" (OSO), un punto cardinal intermedio entre el Oeste y el Sudoeste, equivalente a 247,5° en la rosa de los vientos. En el texto se menciona como dirección de los vientos pamperos en la región del Río de la Plata."
 item,Cabequi averiguar que es
 f4nota1,"""Ensenada"" es una parte de mar que entra en la tierra, en este caso refiere a la disposición de la casa en una parte hacia adentro del camino real"
