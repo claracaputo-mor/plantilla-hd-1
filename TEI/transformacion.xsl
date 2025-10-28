@@ -168,5 +168,23 @@
         </span>
     </xsl:template>
 
+            <xsl:template match="//table">
+        <table> 
+         <xsl:apply-templates/>
+        </table>
+    </xsl:template>
+
+                <xsl:template match="//row">
+        <tr> 
+         <xsl:apply-templates/>
+        </tr>
+    </xsl:template>
+
+          <xsl:template match="//cell">
+        <th> 
+         <xsl:apply-templates/>
+        </th>
+    </xsl:template>
+
 
 </xsl:stylesheet>
