@@ -1,4 +1,4 @@
-key,city,country,latitude,longitude,comment,annotation
+,city,country,latitude,longitude,comment,annotation
 asturias,Asturias,España,43.3614,-5.8494,,Asturias es una región del norte de España conocida por su paisaje montañoso
 galicia,Galicia,España,42.8805,-8.5457,,"Galicia, situada en el extremo noroeste de la península ibérica, era una región agrícola y marinera, con una sociedad estructurada en torno a grandes señoríos y monasterios. Santiago de Compostela destacaba como un importante centro de peregrinación y vida eclesiástica."
 navarra,Navarra,España,42.816666,-1.64323,,"Navarra, situada en el noreste de la península ibérica, es una región de transición entre las montañas del Pirineo y las llanuras del Ebro."
@@ -17,15 +17,15 @@ saladilloderuydiaz,Saladillo de Ruy Díaz,Argentina,-32.935,-62.345,,"Localidad 
 santiagodelestero,Santiago del estero,Argentina,-27.78444444,-64.26694444,,"Ubicada en una región de clima cálido y seco, su economía se basaba en la ganadería y el intercambio regional."
 potosi ,Potosí,Bolivia,-19.5889,-65.7531,,"Potosí es una ciudad del sur de Bolivia, situada a más de 4.000 metros de altitud. "
 cuzco,Cuzco ,Peru ,-13.51694444,-71.97861111,,"Cuzco es una ciudad del sur de Perú, ubicada en la cordillera de los Andes."
-riotercero,río Tercero,Argentina,-32.1767655,-64.1129881,,"Rodeado de tierras fértiles y sierras bajas; en la época colonial, era paso estratégico para el ganado y la agricultura, vinculado a estancias y rutas de comercio."
+riotercero,Río Tercero,Argentina,-32.1767655,-64.1129881,,"Rodeado de tierras fértiles y sierras bajas; en la época colonial, era paso estratégico para el ganado y la agricultura, vinculado a estancias y rutas de comercio."
 europa,Europa,Europa ,48.44821477,7.865389465,,Europa es uno de los continentes del mundo. Se encuentra ubicado en el hemisferio norte. 
 santodo,Santo Domingo ,Argentina,-36.7167,-57.5833,,"pequeña localidad del norte de la provincia de Córdoba, que durante el período colonial formaba parte del Camino Realque conectaba Buenos Aires con el Alto Perú."
 sanfra,San Francisco,Argentina,-31.43555556,-62.07111111,,"Ciudad del este de la provincia de Córdoba, en el límite con Santa Fe. Su ubicación la convirtió en un punto estratégico dentro del corredor que unía el litoral con el interior del país, heredero del antiguo Camino Real al Alto Perú."
 merced,La Merced,Argentina,-28.4586,-65.7272,,"La Merced es una localidad y cabecera del departamento Valle Viejo, situada en el centro-este de la provincia de Catamarca,es una zona principalmente residencial y agrícola"
-riosegundo,río Segundo,Argentina,-31.6503,-63.9117,,"Área de tránsito de comerciantes y viajeros, servía como referencia para rutas de cabalgatas y caminos entre estancias y pueblos."
+riosegundo,Río Segundo,Argentina,-31.6503,-63.9117,,"Área de tránsito de comerciantes y viajeros, servía como referencia para rutas de cabalgatas y caminos entre estancias y pueblos."
 puestosdeferreira,Puestos de Ferreira,Argentina,-32.040755,-64.972694,,"Posta del Camino Real. Ubicada en la provincia de Córdoba, es actualmente un puesto de senderismo, cercano al Cerro Champaqui"
 rioplata,Rio de la Plata,Argentina/Uruguay,-34.69392999,-57.41171597,,"El Rio de la Plata está formado por la unión de los ríos Uuruguay y Paraná. Se encuentra ubicado al sur de América y desemboca en el Atlántico Sur. Durante la época del virreinato, fue fundamental para construir su poder al permitir el traslado de mercancías recibidas en su puerto en Buenos Aires. "
-rioprimero,río Primero,Argentina,-31.33333333,-63.61666667,,"Zona de estancias y pequeños pueblos, importante para transporte fluvial y asentamientos agrícolas en el interior de Córdoba."
+rioprimero,Río Primero,Argentina,-31.33333333,-63.61666667,,"Zona de estancias y pequeños pueblos, importante para transporte fluvial y asentamientos agrícolas en el interior de Córdoba."
 santatere,Santa Teresa ,Argentina,-33.5167,-61.7833,,"Localidad situada en el sur de la provincia de Santa Fe, cercana al antiguo trazado del Camino Real que unía Buenos Aires con el Alto Perú."
 santaclara,Santa Clara,Argentina,-24.3167,-64.6667,,"Santa Clara es una localidad del sudeste de la provincia de Jujuy, cercana al límite con Salta."
 america,América,América,54.526,105.2551,,"Fue escenario de antiguas civilizaciones como los mayas, aztecas e incas, y tras la llegada de los europeos en el siglo XVI, se convirtió en un territorio clave para el intercambio cultural y económico"
@@ -42,7 +42,7 @@ mendoza,Mendoza,Argentina,-32.89010359,-68.84822056,,Mendoza es una provincia de
 oajaca,Oajaca,México,17.055,-96.653889,,"Estado al suroeste de México, conocido por la producción de café y cacao."
 nuevaespaña,Nueva España,México,19.433333,-99.133333,,"Refiere al Virreinato de Nueva España, la entidad territorial del imperio español en el actual México. Era el centro del poderío español en América. "
 parinacocha,Parinacocha,Perú,-15.3,-73.7,,"Provincia en Perú conocida por el lago con el mismo nombre, dentro del departamento de Ayacucho, al sur del país. "
-riocuarto,río Cuarto,Argentina,-33.1307,-64.3499,,"Zona de expansión de estancias y pequeños pueblos; en el siglo XVII, servía como guía natural para viajeros y comerciantes que se desplazaban hacia el sur y la frontera agrícola de Córdoba."
+riocuarto,Río Cuarto,Argentina,-33.1307,-64.3499,,"Zona de expansión de estancias y pequeños pueblos; en el siglo XVII, servía como guía natural para viajeros y comerciantes que se desplazaban hacia el sur y la frontera agrícola de Córdoba."
 turumba,Turumba,Argentina,-30.4,-64.116667,,"Turumba, o Villa Tulumba, como se lo conoce hoy en día, es uno de los poblados más antiguos en el centro-norte de la provincia de Córdoba."
 sauces,Los Sauces,Argentina,-30.7322,-64.6878,,"Localidad en la Provincia de Córdoba, en el departamento de Curz del Eje"
 guayascate,Guayascate,Argentina,-30.231473,-63.96862,,Paraje ubicado al norte de la provincia de Córdoba. Funcionó como posta del Camino Real durante la época colonial. 
@@ -51,6 +51,7 @@ rioseco,El Río Seco,Argentina,29.883333,-63.716667,,Departamento ubicado en el 
 chuquisaca,Chuquisaca,Bolivia ,-19.0333,-65.2627,,Ciudad del sur de Bolivia y una de las más antiguas del país.
 riotartaros,el río de los Tártaros,Argentina,-30.096944,-63.931111,,Rio ubicado en Córdoba cerca del pueblo de Cerro Colorado.
 cruzalta,Cruz Alta ,país,27.74196,-17.9993,,item
+sjfrontera,San Juan de la Frontera,Argentina,-31.53604668,-68.54377894,,"San Juan de la Frontera es una provincia de Argentina, ubicada en la zona central occidental, al este de la Cordillera de los Andes."
 andalucia,Andalucia,España,37.405,-5.9875,,Andalucía es una comunidad autonoma española reconocida como nacionalidad histórica por su Estatuto de Autonomia. 
 cataluña,Cataluña,España,41.8205,1.8677,,"Cataluña es una comunidad autónoma situada en el noreste de España, con capital en Barcelona"
 smtucuman,San Miguel de Tucuman,Argentina,-26.8241,-65.2226,,"Capital de la provincia de Tucumán y uno de los centros históricos más antiguos del norte argentino. Durante el período colonial, fue una posta clave en el Camino Real al Alto Perú, actuando como punto de enlace comercial, político y religioso entre el Río de la Plata y el altiplano."
@@ -75,13 +76,12 @@ riodelasconchas,Rio de las Conchas,Argentina,-34.5333,-58.6167,,"Se ubica en el 
 indiamuerta,India Muerta,Argentina,-33.5224,-60.9596,,era un paraje histórico que formaba parte del antiguo “camino real” que unía Buenos Aires con Córdoba y el Alto Perú: se menciona como etapa entre Pergamino y otros puntos de la ruta en el siglo XVII-XVIII.
 esquinaguardia,Esquina de la Guardia ,Argentina,-23.8173,-66.2343,,"que un antiguo paraje del noroeste argentino, cercano al límite con Bolivia, que funcionaba como punto de control o resguardo en las rutas coloniales del Alto Perú."
 cabezatigre,Cabeza del Tigre,Argentina,-32.3978,-65.8622,,"Paraje histórico cercano a la actual ciudad de Villa de Soto, en la provincia de Córdoba."
-esquinacastillo,Esquina de Castillo,Argentina ,item ,item ,,item
+esquinacastillo,Esquina de Castillo,Argentina ,-31.435556,-62.071111,,Posta en el Camino Real dentro de la provincia de Córdoba.
 fraylemuerto,Frayle Muerto,Argentina,-32.6256,-62.6886,,"Posta en el Camino Real que se encuentra en el sudeste de la provincia de Córdoba, actualmente llamado Bell Ville."
-esquinacolman,Esquina de Colman,Argentina,item ,item ,,item
 esquinaferreira,Esquina del Paso de Ferreira,Argentina,-32.2,-63.7333,,"Paraje histórico situado junto al Río Tercero, en la provincia de Córdoba, que servía como punto de cruce o “paso” en las rutas coloniales hacia el norte argentino."
 tiopugio,Tío Pugio,Argentina,-31.3986,-63.3628,,"Localidad del departamento Río Segundo, en la provincia de Córdoba. Durante el período colonial, formaba parte del Camino Real al Alto Perú y funcionaba como una de las postas intermedias entre las sierras y la llanura"
 ampira,Ampira,Argentina,-31.796944,-63.65,,"Ampira, o Impira más comúnmente conocido, es una localidad del departamento de Río Segundo en Córdoba, Argentina."
-riosegundo,Rio Segundo,Argentina,-31.6521,-63.9096,,"Ciudad situada en el centro de la provincia de Córdoba, a orillas del río homónimo. Durante el período colonial, fue una posta clave del Camino Real que conectaba Buenos Aires con el Alto Perú."
+riosegundo,Río Segundo,Argentina,-31.6521,-63.9096,,"Ciudad situada en el centro de la provincia de Córdoba, a orillas del río homónimo. Durante el período colonial, fue una posta clave del Camino Real que conectaba Buenos Aires con el Alto Perú."
 urahuerta,Urahuerta,Argentina,-31.4375,-64.2439,,"Se encuentra en la provincia de Córdoba, cerca del actual Valle de Punilla. Durante el período colonial, era una pequeña posta o poblado en el Camino Real del Alto Perú, que servía de enlace entre las zonas serranas y los llanos."
 carcarañar,Carcarañar,Argentina,-32.8581,-61.1628,,"es una ciudad del sur de la provincia de Santa Fe, situada sobre el río del mismo nombre. En tiempos coloniales, se encontraba en el trayecto del Camino Real que unía Buenos Aires con el Alto Perú, sirviendo como punto de paso y abastecimiento."
 baradero,Baradero,Argentina,-33.8065,-59.5035,,"es una de las localidades más antiguas de la provincia de Buenos Aires, fundada en 1615 a orillas del río homónimo"
@@ -100,8 +100,9 @@ estanciacaroya,Estancia de Caroya,Argentina,-31.0333,-64.0833,,"La Estancia de C
 monserratdecordoba,Monserrat de Córdoba,Argentina,-31.4201,-64.1888,,"Antiguo convento y barrio de Nuestra Señora de Monserrat, en la ciudad de Córdoba."
 cordova,Cordoba,Argentina,-31.41666667,-64.18333333,,"Provincia del centro de Argentina, conocida por su diversidad geográfica que incluye sierras, valles y llanuras."
 canarias,Canarias ,España,28.25922857,-16.66736413,,"Las Islas Canarias son un archipiélago español de origen volcánico en el océano Atlántico, cerca de la costa africana, conocido por su clima subtropical templado y sus paisajes diversos. Se componen de ocho islas principales: Tenerife, Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera, El Hierro y La Graciosa. "
-rioquinto,Rio Quinto ,Argentina,-33.1197,-65.6139,,"Río Quinto es un antiguo paraje ubicado en la provincia de San Luis, cerca del curso del río del mismo nombre."
+rioquinto,Río Quinto ,Argentina,-33.1197,-65.6139,,"Río Quinto es un antiguo paraje ubicado en la provincia de San Luis, cerca del curso del río del mismo nombre."
 portugal,Portugal,Portugal,39.7707699,-8.499831317,,"Portugal es un país del suroeste de Europa, situado en la península Ibérica, que limita con España al norte y al este, y con el océano Atlántico al oeste y al sur. Su territorio continental se completa con las regiones autónomas de los archipiélagos de Madeira y Azores en el océano Atlántico."
 londres,Londres,Reino Unido,51.50898721,-0.1167048509,,"Londres es la capital de Inglaterra y el Reino Unido, una metrópolis vibrante y diversa a orillas del río Támesis, conocida por su rica historia, cultura, y ser un centro global de comercio, artes y finanzas."
-
 francia,Francia,Francia,46.74675941,2.371376292,,"Francia es el país más extenso de Europa Occidental, con una capital en París, y posee territorios de ultramar en otros continentes. Su territorio se caracteriza por una variedad de relieves, que incluyen llanuras y macizos montañosos como los Alpes y los Pirineos, y un clima diverso según la región."
+mexico ,Mexico ,Mexico ,23.24259865,-102.9408442,,"México es un país entre los Estados Unidos y América Central, conocido por las playas en el Pacífico y el golfo de México, y su diverso paisaje de montañas, desiertos y selvas. Las ruinas antiguas, como Teotihuacán y la ciudad maya de Chichén Itzá, se distribuyen por el país, al igual que las ciudades de la época colonial española."
+paraguay ,Paraguay,Paraguay ,-23.40891196,-59.47842905,,"Paraguay es un país sin litoral que se encuentra entre Argentina, Brasil y Bolivia, con grandes extensiones de pantanos, bosques subtropicales y chaco, extensiones de naturaleza que abarcan sabanas y matorrales. La capital, Asunción, en las orillas del río Paraguay, alberga el gran Palacio de Gobierno y el Museo del Barro"
