@@ -1,4 +1,4 @@
-,city,country,latitude,longitude,comment,annotation
+key,city,country,latitude,longitude,comment,annotation
 asturias,Asturias,España,43.3614,-5.8494,,Asturias es una región del norte de España conocida por su paisaje montañoso
 galicia,Galicia,España,42.8805,-8.5457,,"Galicia, situada en el extremo noroeste de la península ibérica, era una región agrícola y marinera, con una sociedad estructurada en torno a grandes señoríos y monasterios. Santiago de Compostela destacaba como un importante centro de peregrinación y vida eclesiástica."
 navarra,Navarra,España,42.816666,-1.64323,,"Navarra, situada en el noreste de la península ibérica, es una región de transición entre las montañas del Pirineo y las llanuras del Ebro."
