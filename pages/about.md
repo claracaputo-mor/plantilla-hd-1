@@ -13,37 +13,14 @@ credits: true
 ## Sobre la edición de Grupo 2
 
 
-**Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+El presente trabajo se enmarca en la cursada de Humanidades Digitales 2025 en la Universidad Torcuato Di Tella. Su propósito fue llevar a cabo la digitalización del libro Lazarillo de Ciegos Caminantes, una obra del siglo XVII por Alonso Carrió de la Vandera que relata su recorrido por ciudades y pueblos de la América colonial. El autor fue un funcionario borbónico comisionado como visitador de correos entre 1771 y 1772 en el Virreinato del Perú y del Río de la Plata. En el transcurso de este cuatrimestre, fue posible realizar, de manera grupal y colaborativa, la edición y digitalización del apartado Nota (folios d7-g3) donde encontrar los comentarios, reflexiones y anotaciones hechos durante su pasaje por Buenos Aires.
 
-## Sección 1
+El proceso de digitalización consistió de cuatro etapas. Como punto de partida, trabajamos con la materialidad del libro y recurrimos a la versión digitalizada del Lazarillo de Ciegos Caminantes, disponible en la Biblioteca Nacional de España, y la edición de texto plano en la Biblioteca Virtual Cervantes. A partir de la redacción en caracteres básicos y sin formato, fue posible comenzar con la transformación del texto histórico en su versión digital con el programa Visual Studio Code en lenguaje XML - TEI. 
 
-**Título**
-
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+Los folios se dividieron entre las cuatro integrantes, donde cada una realizó la codificación de la cantidad de páginas correspondientes, que luego unificamos en un único archivo XML - TEI. En esta segunda etapa,  se llevó a cabo la identificación de los párrafos y cambios de página conforme a la versión digitalizada. Como también marcar las notas, lugares, personajes y tablas relevantes dentro del archivo XML-TEI para que sean expresadas, etiquetadas y resaltadas de forma desplegable en la página web. 
 
 
-## Sección 2
+Además, completamos y detallamos la descripción de los personajes y de notas según su “key” determinada en los documentos de Excel correspondientes. Para los lugares, realizamos la georeferenciación con coordenadas tomadas de Google Maps y la descripción de las localidades mencionadas en el relato. Una vez completado esto, cargamos al repositorio los documentos con las referencias utilizadas y, gracias a la extensión xslt-transform de Visual Studio Code, generamos archivos HTML con los datos almacenados en XML. Esto nos permitió construir nuestro sitio web estático con el software Jekyll desde la plataforma Git Hub y generar nuestra página web con la plantilla Collection Builder del HD LAB - CONICET para llevar adelante la publicación digital del apartado Nota. Es decir, generamos archivos HTML a partir de fichas XML-TEI, que nos permitieron visualizar nuestro sitio.  
 
-**Título**
-
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
-
-
-## Sección 3
-
-**Título**
-
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
-
+En una tercera etapa, nos ocupamos de la visualización del texto. Para ello, realizamos el StoryMap donde registramos algunos lugares, elegimos imágenes y armamos el itinerario. Este StoryMap se integró al sitio web a modo de enriquecer la propia lectura e inmersión dentro del relato que acompañan los viajes realizados en la obra. **Ciudades, caminos, prácticas comerciales y costumbres locales. Obra híbrida: parte guía de viaje, parte documento histórico y parte relato anecdótico  Palabras claves y temas como metadatos de la página y el texto que faciliten los motores de búsqueda.** 
+Finalmente, en una cuarta etapa, realizamos modificaciones en el sitio web para agregar nuestra impronta y estética. Completamos textos sobre cómo fue la edición, cambiamos la imagen de portada y elegimos una paleta de colores que nos pareció adecuada para la temática, entre otros cambios. Este proceso se realizó a lo largo de todo el cuatrimestre con el que dio fruto a nuestro sitio sobre el apartado Nota del Lazarillo de ciegos caminantes.  
