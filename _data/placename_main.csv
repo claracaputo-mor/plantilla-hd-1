@@ -15,7 +15,7 @@ salta,Salta,Argentina,-24.78833333,-65.41055556,,"Ubicada estratégicamente en e
 frailemuerto,Fraile Muerto,Uruguay,-32.6256,-62.6886,,"Posta en el Camino Real que se encuentra en el sudeste de la provincia de Córdoba, actualmente llamado Bell Ville."
 saladilloderuydiaz,Saladillo de Ruy Díaz,Argentina,-32.935,-62.345,,"Localidad ubicada en el actual departamento de Marcos Juárez en Córdoba, Argentina"
 santiagodelestero,Santiago del estero,Argentina,-27.78444444,-64.26694444,,"Ubicada en una región de clima cálido y seco, su economía se basaba en la ganadería y el intercambio regional."
-potosi ,Potosí,Bolivia,-19.5889,-65.7531,,"Potosí es una ciudad del sur de Bolivia, situada a más de 4.000 metros de altitud. "
+potosi,Potosí,Bolivia,-19.5889,-65.7531,,"Potosí es una ciudad del sur de Bolivia, situada a más de 4.000 metros de altitud. "
 cuzco,Cuzco ,Peru ,-13.51694444,-71.97861111,,"Cuzco es una ciudad del sur de Perú, ubicada en la cordillera de los Andes."
 riotercero,Río Tercero,Argentina,-32.1767655,-64.1129881,,"Rodeado de tierras fértiles y sierras bajas; en la época colonial, era paso estratégico para el ganado y la agricultura, vinculado a estancias y rutas de comercio."
 europa,Europa,Europa ,48.44821477,7.865389465,,Europa es uno de los continentes del mundo. Se encuentra ubicado en el hemisferio norte. 
@@ -28,7 +28,7 @@ rioplata,Rio de la Plata,Argentina/Uruguay,-34.69392999,-57.41171597,,"El Rio de
 rioprimero,Río Primero,Argentina,-31.33333333,-63.61666667,,"Zona de estancias y pequeños pueblos, importante para transporte fluvial y asentamientos agrícolas en el interior de Córdoba."
 santatere,Santa Teresa ,Argentina,-33.5167,-61.7833,,"Localidad situada en el sur de la provincia de Santa Fe, cercana al antiguo trazado del Camino Real que unía Buenos Aires con el Alto Perú."
 santaclara,Santa Clara,Argentina,-24.3167,-64.6667,,"Santa Clara es una localidad del sudeste de la provincia de Jujuy, cercana al límite con Salta."
-america,América,América,54.526,105.2551,,"Fue escenario de antiguas civilizaciones como los mayas, aztecas e incas, y tras la llegada de los europeos en el siglo XVI, se convirtió en un territorio clave para el intercambio cultural y económico"
+america,América,América,4.60971,-74.08175,,"Fue escenario de antiguas civilizaciones como los mayas, aztecas e incas, y tras la llegada de los europeos en el siglo XVI, se convirtió en un territorio clave para el intercambio cultural y económico"
 stafe,Santa fe,Argentina,-33.72277778,-62.24611111,,"Ubicada a orillas del río Paraná, fue un punto estratégico del comercio fluvial y del Camino Real que conectaba Buenos Aires con el interior"
 corrientes,Corrientes,Argentina,-28.66,-57.63,,"Situada a orillas del río Paraná, tuvo gran importancia como punto de conexión fluvial entre Asunción, Buenos Aires y el interior del país."
 peru,Perú,Perú ,-12.06,-77.0375,,"Perú es un país del oeste de América del Sur, atravesado por la cordillera de los Andes y con costa sobre el océano Pacífico."
@@ -47,7 +47,7 @@ turumba,Turumba,Argentina,-30.4,-64.116667,,"Turumba, o Villa Tulumba, como se l
 sauces,Los Sauces,Argentina,-30.7322,-64.6878,,"Localidad en la Provincia de Córdoba, en el departamento de Curz del Eje"
 guayascate,Guayascate,Argentina,-30.231473,-63.96862,,Paraje ubicado al norte de la provincia de Córdoba. Funcionó como posta del Camino Real durante la época colonial. 
 cocos,Los Cocos,Argentina,-30.937181,-64.493326,,"Localidad en el municipio de Punilla, al norte de Córdoba"
-rioseco,El Río Seco,Argentina,29.883333,-63.716667,,Departamento ubicado en el norte de la provincia de Córdoba.
+rioseco,El Río Seco,Argentina,-29.883333,-63.716667,,Departamento ubicado en el norte de la provincia de Córdoba.
 chuquisaca,Chuquisaca,Bolivia ,-19.0333,-65.2627,,Ciudad del sur de Bolivia y una de las más antiguas del país.
 riotartaros,el río de los Tártaros,Argentina,-30.096944,-63.931111,,Rio ubicado en Córdoba cerca del pueblo de Cerro Colorado.
 cruzalta,Cruz Alta ,país,27.74196,-17.9993,,item
@@ -66,7 +66,7 @@ laspeñas,las Peñas,Argentina,-30.563889,-63.998056,,"Localidad de la provincia
 pergamino,Pergamino,Argentina,-33.89101,-60.57462,,"Ciudad ubicada en el norte de la provincia de Buenos Aires, en una zona agrícola clave de la Pampa Húmeda"
 sanluisdelapunta,San Luis de la Punta,Argentina,-33.18368,-66.3127,,"La Punta es una ciudad moderna ubicada a unos 20 km al norte de la capital provincial (San Luis). Se fundó el 26 de marzo de 2003, siendo reconocida como la primera ciudad argentina del siglo XXI."
 aconcagua,Aconcagua ,Argentina,-32.6532,-70.0109,,"El Aconcagua es el pico más alto de América, con 6.962 m de altura, ubicado en la Cordillera de los Andes, provincia de Mendoza. En tiempos coloniales, era una referencia geográfica crucial para los viajeros que cruzaban entre Chile y el territorio del Río de la Plata"
-carcarañar,Caracañar,Argentina,-32.85,-61.15,,"Carcarañá es una ciudad del departamento de San Lorenzo, en la provincia de Santa Fe, ubicada sobre la ribera del Río Carcarañá. Su entorno ha sido históricamente agrícola y vinculada a la navegación fluvial, lo que la convierte en un ejemplo de asentamiento intermedio entre grandes núcleos urbanos y la actividades rurales en el contexto pampeano."
+carcarañar,Carcarañar,Argentina,-32.85,-61.15,,"Carcarañá es una ciudad del departamento de San Lorenzo, en la provincia de Santa Fe, ubicada sobre la ribera del Río Carcarañá. Su entorno ha sido históricamente agrícola y vinculada a la navegación fluvial, lo que la convierte en un ejemplo de asentamiento intermedio entre grandes núcleos urbanos y la actividades rurales en el contexto pampeano."
 lujan,Lujan,Argentina,-34.5703,-59.105,,"Luján es una ciudad de la provincia de Buenos Aires, reconocida por su Basílica dedicada a la Virgen de Luján, patrona de la Argentina. Durante el período colonial, fue un punto estratégico en el camino entre Buenos Aires y el interior del Virreinato del Río de la Plata, ofreciendo hospedaje y servicios a los viajeros."
 castillo,Castillo,país,27.74196,-17.9993,,item
 areco,Areco,Argentina,-34.2526,-59.4718,,"San Antonio de Areco es una de las localidades más antiguas de la provincia de Buenos Aires, fundada a comienzos del siglo XVIII como posta en el camino al Alto Perú. Su ubicación sobre el río Areco la convirtió en punto de descanso para viajeros y arrieros."
@@ -94,7 +94,7 @@ santiagodechile,Santiago de Chile,Chile,-33.4489,-70.6693,,"fue uno de los princ
 lasconchas,las Conchas,Argentina,-34.41666,-58.5833,,"las conchas es el antiguo nombre del puerto, pueblo y rio reoconquista, en argentina, donde hoy se encuentra la ciudad de tigre"
 janeiro,Rio de Janeiro,Brasil,-22.91111,-43.2055,,ciudad portuaria de brasil
 coloniadelsacramento,Colonia del Sacramento,Uruguay,-34.4713,-57.8441,,"Colonia del Sacramento fue fundada por los portugueses en 1680 frente a Buenos Aires, a orillas del Río de la Plata."
-palma,isla y ciudad de la palma,España,39.57495171,2.6512257,,"La Isla de La Palma, también conocida como ""La Isla Bonita,"" es una isla volcánica española en el archipiélago canario, famosa por sus paisajes exuberantes, bosques, costas escarpadas y cielos claros."
+palma,isla y ciudad de la palma,España,28.0997,-15.4134,,"La Isla de La Palma, también conocida como ""La Isla Bonita,"" es una isla volcánica española en el archipiélago canario, famosa por sus paisajes exuberantes, bosques, costas escarpadas y cielos claros."
 sancarlos,destacamento de San Carlos el regimiento de Mallorca,Uruguay,-34.78833046,-54.92147817,,"San Carlos es una ciudad uruguaya del departamento de Maldonado, conocida por su legado histórico y por ser un importante centro rural."
 estanciacaroya,Estancia de Caroya,Argentina,-31.0333,-64.0833,,"La Estancia de Caroya, ubicada en Caroya, al norte de Córdoba, era un establecimiento que pertenecía a la orden jesuítica, junto con las estancias de Santa Catalina, Jesús María, La Candelaria y Alta Gracia."
 monserratdecordoba,Monserrat de Córdoba,Argentina,-31.4201,-64.1888,,"Antiguo convento y barrio de Nuestra Señora de Monserrat, en la ciudad de Córdoba."
